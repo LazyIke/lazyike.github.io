@@ -1,8 +1,5 @@
 - title: Main Menu
   subfolderitems:
-    - name: "Home"
-      url: "../"
-      weight: 2
     - name: "Novels"
       url: "#"
       weight: 3
