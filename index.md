@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Banana Translations"
+title: "LazyIke Translations"
 pagination:
   enabled: "true"
 ---
