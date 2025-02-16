@@ -1,0 +1,11 @@
+- title: Main Menu
+  subfolderitems:
+    - name: "Home"
+      url: "../"
+      weight: 2
+    - name: "Novels"
+      url: "/LHAHS/"
+      weight: 3
+    - name: "About"
+      url: "/about.html"
+      weight: 3
