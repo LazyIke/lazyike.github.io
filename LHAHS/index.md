@@ -5,15 +5,15 @@ title: The Legendary Hero is an Academy Honors Student
 
 ## Summary
 
-There were five heroes who stood against the primordial evil, Erebos, which had driven the world to the brink of destruction—the Brave Hero Aaron, the Divine Blacksmith Dweno, the Nebula Pioneer Luna, the Wise Queen Lysinas, and lastly, me, the Hero of the Beginning, Kyle.
+Back in the Age of Despair, Kyle defeated Erebos, the genesis of evil. 5000 years later, he reincarnates as Leo with the memories of his past life intact.
 
-After reincarnating, everyone was praised as a Great Hero.
+His comrades - the Brave Hero Aaron, the Divine Blacksmith Dweno, the Nebula Pioneer Luna, and the Wise Queen Lysinas - were all heralded as great heroes.
 
-"Except for me."
+However, the 'Hero Record', a gift from the heavens that records the achievements of heroes through the ages, had no record of Kyle whatsoever, and the people of the present treat him like a fictional character.
 
-A hero academy where the Hero Record, a divine gift that records the achievements of heroes, exists. I'll enroll there and find out the reason why.
+Angry about the reality he's found himself in, Leo enrolls at Lumene Academy, the hero academy which houses the Hero Record.
 
-"Well, might as well become an honors student while I'm at it."
+"Fine. I guess I'll become an honors student to figure out why I was written out of history."
 
 ## Chapters
 
